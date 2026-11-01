@@ -19,7 +19,7 @@ Desenvolvedor de Software focado em criar soluções web modernas e eficientes.
 
 ### 🚀 Projetos em Destaque
 
-- **Website Dr. Igor Nogueira** ([Ver Site](https://www.seu-link-aqui.com.br](https://site-dr-igor-nogueira.web.app/index.html)) |[Ver Código](https://github.com/Walnei-Carlos/adv-igor) [Ver Código](https://github.com/Walnei-Carlos/site-advocacia-igor)): Desenvolvimento de site institucional responsivo, política de privacidade e identidade digital.
+- **Website Dr. Igor Nogueira** ([Ver Site](https://www.seu-link-aqui.com.br](https://site-dr-igor-nogueira.web.app/index.html))|[Ver Código](https://github.com/Walnei-Carlos/adv-igor)|[Ver Código](https://github.com/Walnei-Carlos/site-advocacia-igor)): Desenvolvimento de site institucional responsivo, política de privacidade e identidade digital.
 ---
 
 ### 📬 Conecte-se comigo
